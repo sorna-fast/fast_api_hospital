@@ -84,16 +84,16 @@ pytest: برای تست‌های واحد و یکپارچه.
 
 
 
-Project Structure | ساختار پروژه 📂
-├── main.py              # فایل اصلی API
-├── models.py            # مدل‌های پایگاه داده
-├── schemas.py           # طرح‌های داده (Pydantic models)
-├── database.py          # تنظیمات پایگاه داده
-├── auth.py              # مدیریت احراز هویت
-├── requirements.txt     # وابستگی‌های پروژه
-├── tests/               # پوشه تست‌ها
-│   ├── test_main.py     # تست‌های مربوط به API
-└── README.md            # مستندات پروژه
+### Project Structure | ساختار پروژه 📂
+### ├── main.py              #  فایل اصلی API
+### ├── models.py            #  مدل‌های پایگاه داده
+### ├── schemas.py           #  طرح‌های داده (Pydantic models)
+### ├── database.py          #  تنظیمات پایگاه داده
+### ├── auth.py              #  مدیریت احراز هویت
+### ├── requirements.txt     #  وابستگی‌های پروژه
+### ├── tests/               # پوشه تست‌ها
+### │   ├── test_main.py     #  تست‌های مربوط به API
+### └── README.md            #  مستندات پروژه
 
 
 
