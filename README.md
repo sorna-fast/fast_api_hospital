@@ -57,7 +57,7 @@ This project is an API built with **FastAPI** for managing hospital data. The go
 4. وابستگی‌ها را نصب کنید:
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 
 
